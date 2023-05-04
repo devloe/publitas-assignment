@@ -1,0 +1,15 @@
+.caption {
+    font-size:12px;
+    color:#999;
+    text-align: center;
+    display:block;
+    padding:6px;
+}
+
+.container {
+    margin:auto auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
